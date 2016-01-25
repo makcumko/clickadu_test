@@ -54,6 +54,8 @@ output: !dlrw llH
 
 
 см. проект https://github.com/makcumko/clickadu_test
+
 запуск консольной версии *php cmd_test.php*
+
 запуск теста *vendor\bin\phpunit src\Foo\FooTest*
 
