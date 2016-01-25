@@ -1,0 +1,16 @@
+{
+    "name": "clickadu/test",
+    "description": "test task",
+    "require": {
+        "phpunit/phpunit": "4.8"
+    },
+    "authors": [
+        {
+            "name": "Makc K",
+            "email": "m.kulesh@gmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {"Foo\\": "src/Foo/"}
+    }
+}
